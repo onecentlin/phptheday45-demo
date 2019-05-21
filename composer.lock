@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4e6e0d9441a04772f670b53f13e4b83c",
+    "packages": [
+        {
+            "name": "onecentlin/package-bmi",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/onecentlin/package-bmi",
+                "reference": "68c6b451fa2e4618bc1da5d35043f2cb4e3d8e1f"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PhpTheDay\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Winnie Lin",
+                    "email": "onecentlin@gmail.com"
+                }
+            ],
+            "description": "BMI Calculator",
+            "time": "2019-05-21T12:38:26+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "onecentlin/package-bmi": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

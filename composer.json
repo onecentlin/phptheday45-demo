@@ -1,0 +1,20 @@
+{
+    "name": "winnielin/ptdweb-demo",
+    "description": "Website with BMI",
+    "type": "project",
+    "license": "preprietary",
+    "authors": [
+        {
+            "name": "Winnie Lin",
+            "email": "onecentlin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "onecentlin/package-bmi": "dev-master"
+    },
+    "repositories": [{
+        "type": "git",
+        "url": "https://github.com/onecentlin/package-bmi"
+    }]
+}
