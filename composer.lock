@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4e6e0d9441a04772f670b53f13e4b83c",
+    "content-hash": "a2f31906a6d598f9e6f81a1dd0a3f9cc",
     "packages": [
         {
             "name": "onecentlin/package-bmi",
@@ -12,7 +12,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/onecentlin/package-bmi",
-                "reference": "68c6b451fa2e4618bc1da5d35043f2cb4e3d8e1f"
+                "reference": "7b977bd68e7c4ae17495669aba7383469a4b2faa"
             },
             "require-dev": {
                 "phpunit/phpunit": "^8.1"
@@ -33,7 +33,7 @@
                 }
             ],
             "description": "BMI Calculator",
-            "time": "2019-05-21T12:38:26+00:00"
+            "time": "2019-05-21T13:01:37+00:00"
         }
     ],
     "packages-dev": [],

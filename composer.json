@@ -1,8 +1,8 @@
 {
-    "name": "winnielin/ptdweb-demo",
+    "name": "onecentlin/ptdweb-demo",
     "description": "Website with BMI",
     "type": "project",
-    "license": "preprietary",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Winnie Lin",
